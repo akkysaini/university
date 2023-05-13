@@ -4,7 +4,9 @@
     font-family: 'Poppins', sans-serif;
 
 }
-
+html{
+    overflow-x:hidden;
+}
 /* Home Page Section */
 
 .header {
@@ -512,6 +514,3 @@ nav .fa {
     box-sizing: border-box;
 }
 
-body{
-    overflow-y: hidden;
-}
